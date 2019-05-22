@@ -1,0 +1,2 @@
+- Dataset can be found through [this page](https://www.kaggle.com/benhamner/nips-papers/version/2).
+- papers.csv has been used in this repo.
